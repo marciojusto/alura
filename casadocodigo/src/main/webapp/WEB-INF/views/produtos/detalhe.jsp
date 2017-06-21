@@ -110,7 +110,7 @@
 		          </li>
 		      </c:forEach>    
 	    </ul>
-	    <button type="submit" class="submit-image icon-basket-alt" alt="Compre Agora ${produto.titlo}!" title="Compre Agora"></button>
+	    <button type="submit" class="submit-image icon-basket-alt" alt="Compre Agora ${produto.titulo}!" title="Compre Agora"></button>
 	    
 	  </form>
 	  
